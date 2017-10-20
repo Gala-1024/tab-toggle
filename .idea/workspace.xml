@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c45c412-4829-4b4c-8a04-d8d9562634f6" name="默认" comment="" />
+    <list default="true" id="3c45c412-4829-4b4c-8a04-d8d9562634f6" name="默认" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.html" afterPath="$PROJECT_DIR$/demo.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
       <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+            <state relative-caret-position="475">
+              <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -26,18 +29,18 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
-              <first_editor relative-caret-position="598">
-                <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+              <first_editor relative-caret-position="646">
+                <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
                 <folding>
-                  <marker date="1508499027000" expanded="true" signature="231:449" ph="..." />
-                  <marker date="1508499027000" expanded="true" signature="257:385" ph="..." />
-                  <marker date="1508499027000" expanded="true" signature="266:287" ph="..." />
-                  <marker date="1508499027000" expanded="true" signature="296:317" ph="..." />
-                  <marker date="1508499027000" expanded="true" signature="326:347" ph="..." />
-                  <marker date="1508499027000" expanded="true" signature="356:377" ph="..." />
-                  <marker date="1508499027000" expanded="true" signature="488:540" ph="{&quot;element&quot;: 'rebate-tab-nav'...}" />
-                  <marker date="1508499027000" expanded="true" signature="576:635" ph="{...}" />
-                  <marker date="1508499027000" expanded="true" signature="685:749" ph="{...}" />
+                  <marker date="1508499232000" expanded="true" signature="231:449" ph="..." />
+                  <marker date="1508499232000" expanded="true" signature="257:385" ph="..." />
+                  <marker date="1508499232000" expanded="true" signature="266:287" ph="..." />
+                  <marker date="1508499232000" expanded="true" signature="296:317" ph="..." />
+                  <marker date="1508499232000" expanded="true" signature="326:347" ph="..." />
+                  <marker date="1508499232000" expanded="true" signature="356:377" ph="..." />
+                  <marker date="1508499232000" expanded="true" signature="486:538" ph="{&quot;element&quot;: 'rebate-tab-nav'...}" />
+                  <marker date="1508499232000" expanded="true" signature="572:631" ph="{...}" />
+                  <marker date="1508499232000" expanded="true" signature="679:743" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -212,12 +215,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508496465495</updated>
-      <workItem from="1508496466931" duration="1439000" />
+      <workItem from="1508496466931" duration="1583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1439000" />
+    <option name="totallyTimeSpent" value="1583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -270,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        <state relative-caret-position="475">
+          <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -279,18 +282,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="598">
-            <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <first_editor relative-caret-position="646">
+            <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
             <folding>
-              <marker date="1508499027000" expanded="true" signature="231:449" ph="..." />
-              <marker date="1508499027000" expanded="true" signature="257:385" ph="..." />
-              <marker date="1508499027000" expanded="true" signature="266:287" ph="..." />
-              <marker date="1508499027000" expanded="true" signature="296:317" ph="..." />
-              <marker date="1508499027000" expanded="true" signature="326:347" ph="..." />
-              <marker date="1508499027000" expanded="true" signature="356:377" ph="..." />
-              <marker date="1508499027000" expanded="true" signature="488:540" ph="{&quot;element&quot;: 'rebate-tab-nav'...}" />
-              <marker date="1508499027000" expanded="true" signature="576:635" ph="{...}" />
-              <marker date="1508499027000" expanded="true" signature="685:749" ph="{...}" />
+              <marker date="1508499232000" expanded="true" signature="231:449" ph="..." />
+              <marker date="1508499232000" expanded="true" signature="257:385" ph="..." />
+              <marker date="1508499232000" expanded="true" signature="266:287" ph="..." />
+              <marker date="1508499232000" expanded="true" signature="296:317" ph="..." />
+              <marker date="1508499232000" expanded="true" signature="326:347" ph="..." />
+              <marker date="1508499232000" expanded="true" signature="356:377" ph="..." />
+              <marker date="1508499232000" expanded="true" signature="486:538" ph="{&quot;element&quot;: 'rebate-tab-nav'...}" />
+              <marker date="1508499232000" expanded="true" signature="572:631" ph="{...}" />
+              <marker date="1508499232000" expanded="true" signature="679:743" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

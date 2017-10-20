@@ -29,16 +29,35 @@
   </ul>
   <i class="m-user-center-tab-active-line"></i>
 </div>
+
+
+<div class="m-user-center-tab relative" id="rebate-tab-navs">
+  <ul class="inline-box">
+    <li>
+      全部
+    </li>
+    <li>
+      返利中
+    </li>
+    <li>
+      已返利
+    </li>
+    <li>
+      失效
+    </li>
+  </ul>
+  <i class="m-user-center-tab-active-line"></i>
+</div>
 <script>
-  var table = new V_tab_nav({
+  var tab = new V_tab_nav({
     element: 'rebate-tab-nav',
     default_active: 0
   });
-  table.on('init', function (data) {
+  tab.on('init', function (data) {
     console.log('init do something');
     console.log(data)
   }.bind(this));
-  table.on('confirm', function (data) {
+  tab.on('confirm', function (data) {
     console.log('tab click do something');
     console.log(data)
   }.bind(this));

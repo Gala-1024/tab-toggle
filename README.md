@@ -27,15 +27,15 @@ demo：<a href="https://cgygd.github.io/tab-toggle/demo.html" target="_blank">ht
 ```
 
 ```js
-var table = new V_tab_nav({
+var tab = new V_tab_nav({
   element: 'rebate-tab-nav',
   default_active: 0
 });
-table.on('init', function (data) {
+tab.on('init', function (data) {
   console.log('init do something');
   console.log(data)
 }.bind(this));
-table.on('confirm', function (data) {
+tab.on('confirm', function (data) {
   console.log('tab click do something');
   console.log(data)
 }.bind(this));
