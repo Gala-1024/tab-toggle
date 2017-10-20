@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>tab-toggle</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <script src="tab-toggle.js"></script>
+</head>
+<body>
+<div class="m-user-center-tab relative" id="rebate-tab-nav">
+  <ul class="inline-box">
+    <li>
+      全部
+    </li>
+    <li>
+      返利中
+    </li>
+    <li>
+      已返利
+    </li>
+    <li>
+      失效
+    </li>
+  </ul>
+  <i class="m-user-center-tab-active-line"></i>
+</div>
+<script>
+  var table = new V_tab_nav({
+    element: 'rebate-tab-nav',
+    default_active: 0
+  });
+  table.on('init', function (data) {
+    console.log('init do something');
+    console.log(data)
+  }.bind(this));
+  table.on('confirm', function (data) {
+    console.log('tab click do something');
+    console.log(data)
+  }.bind(this));
+</script>
+</body>
+</html>
